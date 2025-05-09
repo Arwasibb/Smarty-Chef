@@ -1,16 +1,16 @@
-# testwithalltears
+# Smarty Kitchen Game Overview
+Smarty Kitchen Game is an interactive educational game with multiple stages, designed to enhance problem-solving and critical thinking in a fun and engaging way. In the first stage, players are challenged to decode the ingredients, where each ingredient is represented by a unique code. The player must match each code to the correct item using observation and trial-error.
+Once the ingredient decoding phase is completed, the player proceeds to the cooking stage, which features a timer-based mini-game. In this stage, a timer simulates the oven cooking process, and players must monitor it carefully to "cook" the meal at the right time.
 
-A new Flutter project.
+The game is ideal for kids and beginners, combining learning and entertainment through a visually appealing and easy-to-use interface.
 
-## Getting Started
+## Team Members
+Arwa Bin Bakr - (@Arwasibb)[https://github.com/Arwasibb]
 
-This project is a starting point for a Flutter application.
+Lujain AlDukhi - (@Lujainazizdokhi)[https://github.com/Lujainazizdokhi]
 
-A few resources to get you started if this is your first Flutter project:
+Aljohara Albahley - (@Aljoharamhb)[https://github.com/Aljoharamhb]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Rama alghamdi - (@Ramag-66)[https://github.com/Ramag-66]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Wajd Binhazzaa 
