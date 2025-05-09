@@ -5,12 +5,12 @@ Once the ingredient decoding phase is completed, the player proceeds to the cook
 The game is ideal for kids and beginners, combining learning and entertainment through a visually appealing and easy-to-use interface.
 
 ## Team Members
-Arwa Bin Bakr - (@Arwasibb)[https://github.com/Arwasibb]
+Arwa Bin Bakr - [@Arwasibb](https://github.com/Arwasibb)
 
-Lujain AlDukhi - (@Lujainazizdokhi)[https://github.com/Lujainazizdokhi]
+Lujain AlDukhi - [@Lujainazizdokhi](https://github.com/Lujainazizdokhi)
 
-Aljohara Albahley - (@Aljoharamhb)[https://github.com/Aljoharamhb]
+Aljohara Albahley - [@Aljoharamhb](https://github.com/Aljoharamhb)
 
-Rama alghamdi - (@Ramag-66)[https://github.com/Ramag-66]
+Rama alghamdi - [@Ramag-66](https://github.com/Ramag-66)
 
 Wajd Binhazzaa 
